@@ -4,7 +4,8 @@
 
 > [Click the link to know more](https://www.freecodecamp.org/learn/scientific-computing-with-python)
 
-  ### Assignment
+  
+### Assignment
 
 Students in primary school often arrange arithmetic problems vertically to make them easier to solve. For example, "235 + 52" becomes:
 ```

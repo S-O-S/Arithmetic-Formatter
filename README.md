@@ -1,4 +1,4 @@
-### FreeCodeCamp Project
+### Arithmetic Formatter [FreeCodeCamp Project]
 
 - <h3> This is one of the project is made as after attending the free course <b>Scientific Computing with Python<b> </h3>
 

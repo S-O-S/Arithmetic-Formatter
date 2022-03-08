@@ -2,8 +2,7 @@
 
 - This project is made as after attending the free course *Scientific Computing with Python* on [freecodecamp.org](https://www.freecodecamp.org/learn/scientific-computing-with-python)
 
-> Details on the same can be found on link mentioned below
-<br> [Click Here](https://s-o-s.github.io/Arithmetic-Formatter/)
+> Details on the same can be found on link mentioned. [Click Here](https://s-o-s.github.io/Arithmetic-Formatter/)
   
 ### Assignment
 

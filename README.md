@@ -1,9 +1,9 @@
-### Arithmetic Formatter [FreeCodeCamp Project]
+# Arithmetic Formatter 
 
-- ### This is one of the project is made as after attending the free course **Scientific Computing with Python**
+- This project is made as after attending the free course *Scientific Computing with Python* on [freecodecamp.org](https://www.freecodecamp.org/learn/scientific-computing-with-python)
 
-> [Click the link to know more](https://www.freecodecamp.org/learn/scientific-computing-with-python)
-
+> Details on the same can be found on link mentioned below
+<br> [Click Here](https://s-o-s.github.io/Arithmetic-Formatter/)
   
 ### Assignment
 
